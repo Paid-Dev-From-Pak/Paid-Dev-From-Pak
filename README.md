@@ -62,7 +62,7 @@ Academic software engineering project for automated attendance using facial reco
 Responsive front-end website built using HTML & CSS.
 
 ### 🛒 E-Commerce Website
-E-Commerce Website using HTML & CSS.
+E-commerce website built using HTML & CSS.
 ---
 
 ## 🌐 Connect With Me
