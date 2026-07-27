@@ -1,17 +1,17 @@
 # Hi 👋, I'm Syed Affan Saeed
 
 <p align="center">
-  <img src="github_banner.jpg" alt="Syed Affan Saeed Banner" width="100%" />
-</p>
-
-<h1 align="center">Hey there! I'm Syed Affan Saeed 👋</h1>
-
-<p align="center">
-  <strong>Aspiring Software Engineer | Front-End Developer | Constructing Practical & High-Performance Web Solutions</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=3000&amp;pause=1000&amp;color=FE532A&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=SYED+AFFAN+SAEED;Aspiring+Software+Engineer;Front-End+Developer;Welcome+to+my+digital+space!" alt="Syed Affan Saeed Banner" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FE532A&center=true&vCenter=true&width=750&lines=Welcome+to+my+code+space!;Aspiring+Software+Engineer;Building+Practical+%26+Real-World+Projects;Always+learning+new+technologies;Let's+connect+and+collaborate!" />
+  <strong>Aspiring Software Engineer | Front-End Developer | Constructing Practical &amp; High-Performance Web Solutions</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=a9fef7&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+Practical+%26+Real-World+Projects;Always+learning+new+technologies;Let's+connect+and+collaborate!" alt="Sub-typing animation" />
 </p>
 
 ---
@@ -116,12 +116,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Paid-Dev-From-Pak&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Paid-Dev-From-Pak&amp;theme=radical&amp;hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -129,7 +129,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paid-Dev-From-Pak&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Paid-Dev-From-Pak&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -137,7 +137,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paid-Dev-From-Pak&theme=github-compact" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paid-Dev-From-Pak&amp;theme=github-compact" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
@@ -145,7 +145,7 @@
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -167,7 +167,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paid-Dev-From-Pak&style=for-the-badge&color=fe532a" />
+  <img src="https://komarev.com/ghpvc/?username=Paid-Dev-From-Pak&amp;style=for-the-badge&amp;color=fe532a" alt="Profile Views" />
 </p>
 
 ---
