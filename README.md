@@ -1,40 +1,43 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Syed Affan Saeed</h1>
 
-# Hi 👋, I'm Syed Affan Saeed
+<h3 align="center">
+Aspiring Software Engineer | Front-End Developer | Building Practical Web Applications
+</h3>
 
-### Aspiring Software Engineer | Building Practical Web Applications
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Front-End+Web+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Front-End+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 💻 Aspiring Software Engineer
 - 🌐 Passionate about Web Development
+- 🚀 Building practical & real-world projects
 - 📚 Currently learning Java & Software Engineering
-- 🔥 Love building real-world projects
 - 🌱 Always learning new technologies
+- ⚡ Love solving real-world problems through code
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,python,c,cpp,firebase,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,python,c,cpp,firebase,git,github,vscode,figma"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -44,25 +47,46 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Paid-Dev-From-Pak&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Paid-Dev-From-Pak&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Paid-Dev-From-Pak&theme=radical&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paid-Dev-From-Pak&theme=github-compact"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### ☁️ Cloud-Vault
-Firebase-powered personal cloud storage with Google Authentication, category-based file organization, and an admin dashboard.
+A Firebase-powered personal cloud storage web application featuring Google Authentication, secure file management, category-based organization, and an admin dashboard.
 
 ### 🤖 AI-Based Facial Recognition Attendance System
-Academic software engineering project for automated attendance using facial recognition.
+An academic software engineering project that automates attendance using facial recognition technology.
 
 ### 🏋️ Gym Website
-Responsive front-end website built using HTML & CSS.
+A responsive front-end gym website developed using HTML and CSS with a modern, mobile-friendly interface.
 
 ### 🛒 E-Commerce Website
-E-commerce website built using HTML & CSS.
+A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clean user interface and mobile-friendly design.
+
 ---
 
 ## 🌐 Connect With Me
@@ -73,6 +97,8 @@ E-commerce website built using HTML & CSS.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Paid-Dev-From-Pak">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -81,14 +107,30 @@ E-commerce website built using HTML & CSS.
 
 ---
 
+## 💡 Random Dev Quote
+
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=Paid-Dev-From-Pak&color=blue&style=for-the-badge)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Paid-Dev-From-Pak&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+**Code • Learn • Build • Repeat 🚀**
 
 </div>
