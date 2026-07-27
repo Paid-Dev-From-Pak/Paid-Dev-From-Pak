@@ -32,9 +32,6 @@ Aspiring Software Engineer | Front-End Developer | Building Practical Web Applic
 ---
 
 
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -45,9 +42,6 @@ Aspiring Software Engineer | Front-End Developer | Building Practical Web Applic
 
 ---
 
-
-
----
 
 ## 📈 Contribution Graph
 
