@@ -97,7 +97,7 @@ A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clea
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://github.com/Paid-Dev-From-Pak">
 <img src="https://skillicons.dev/icons?i=github"/>
