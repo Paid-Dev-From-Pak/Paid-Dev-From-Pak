@@ -1,67 +1,136 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Syed Affan Saeed</h1>
 
-# Hi 👋 I'm Syed Affan Saeed
+<h3 align="center">
+Aspiring Software Engineer | Front-End Developer | Building Practical Web Applications
+</h3>
 
-### Aspiring Software Engineer
-
-Building clean, practical, and user-friendly web applications.
-
-</div>
-
----
-
-## About
-
-I'm a Software Engineering student passionate about building modern web applications and continuously improving my development skills.
-
-Currently focusing on
-
-- Front-End Development
-- Java
-- Firebase
-- Software Engineering
-- Problem Solving
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Front-End+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-<p>
+- 💻 Aspiring Software Engineer
+- 🌐 Passionate about Web Development
+- 🚀 Building practical & real-world projects
+- 📚 Currently learning Java & Software Engineering
+- 🌱 Always learning new technologies
+- ⚡ Love solving real-world problems through code
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,firebase,git,github,vscode"/>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,python,c,cpp,firebase,git,github,vscode,figma"/>
 
 </p>
 
 ---
 
-## Featured Projects
+## 📊 GitHub Analytics
 
-### ☁️ Cloud Vault
-Secure cloud storage web application powered by Firebase Authentication and Storage.
+<p align="center">
 
-### 🤖 AI Attendance System
-Facial recognition based attendance management system.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&show_icons=true&theme=radical&hide_border=true"/>
 
-### 🛒 E-Commerce Website
-Responsive shopping website built using HTML and CSS.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Paid-Dev-From-Pak&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Paid-Dev-From-Pak&theme=radical&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paid-Dev-From-Pak&theme=github-compact"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ Cloud-Vault
+A Firebase-powered personal cloud storage web application featuring Google Authentication, secure file management, category-based organization, and an admin dashboard.
+
+### 🤖 AI-Based Facial Recognition Attendance System
+An academic software engineering project that automates attendance using facial recognition technology.
 
 ### 🏋️ Gym Website
-Responsive landing page with a clean modern UI.
+A responsive front-end gym website developed using HTML and CSS with a modern, mobile-friendly interface.
+
+### 🛒 E-Commerce Website
+A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clean user interface and mobile-friendly design.
 
 ---
 
-## GitHub Stats
+## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&show_icons=true&theme=transparent"/>
+<a href="mailto:syedaffansaeed051051@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&layout=compact&theme=transparent"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Paid-Dev-From-Pak">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </p>
 
 ---
 
-## Connect
+## 💡 Random Dev Quote
 
-- 📧 syedaffansaeed051051@gmail.com
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Paid-Dev-From-Pak&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Code • Learn • Build • Repeat 🚀**
+
+</div>
