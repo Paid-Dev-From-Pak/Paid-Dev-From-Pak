@@ -77,7 +77,7 @@ A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clea
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-
+&nbsp
 
 <a href="https://github.com/Paid-Dev-From-Pak">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -97,15 +97,6 @@ A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clea
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Paid-Dev-From-Pak&style=for-the-badge&color=blue"/>
-
-</p>
-
----
 
 <div align="center">
 
