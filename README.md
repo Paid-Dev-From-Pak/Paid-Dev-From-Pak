@@ -31,15 +31,7 @@ Aspiring Software Engineer | Front-End Developer | Building Practical Web Applic
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paid-Dev-From-Pak&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paid-Dev-From-Pak&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -53,13 +45,7 @@ Aspiring Software Engineer | Front-End Developer | Building Practical Web Applic
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Paid-Dev-From-Pak&theme=radical&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
