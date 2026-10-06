@@ -77,7 +77,7 @@ A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clea
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote" />
 
 </p>
 
