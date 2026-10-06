@@ -31,23 +31,11 @@ Aspiring Software Engineer | Front-End Developer | Building Practical Web Applic
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Paid-Dev-From-Pak&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00BFFF/Paid-Dev-From-Pak" alt="Paid-Dev-From-Pak's Github Chart" />
 
 </p>
 
@@ -94,7 +82,6 @@ A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clea
 </p>
 
 ---
-
 
 <div align="center">
 
