@@ -47,7 +47,7 @@ Aspiring Software Engineer | Front-End Developer | Building Practical Web Applic
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paid-Dev-From-Pak&theme=github-compact"/>
+<img src="https://ghchart.rshah.org/00BFFF/Paid-Dev-From-Pak" alt="Paid-Dev-From-Pak's Github Chart" />
 
 </p>
 
