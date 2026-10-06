@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Affan Saeed</h1>
+<h1 align="center">Hi, I'm Syed Affan Saeed</h1>
 
 <h3 align="center">
 Aspiring Software Engineer | Front-End Developer | Building Practical Web Applications
@@ -85,8 +85,8 @@ A responsive e-commerce website built using HTML, CSS, and Bootstrap with a clea
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
-**Code • Learn • Build • Repeat 🚀**
+**Code • Learn • Build • Repeat**
 
 </div>
